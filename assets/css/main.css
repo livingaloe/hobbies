@@ -527,6 +527,7 @@ background-image: url("images/pencil-svgrepo-com.png");
 
 			}
 
+/* Scroll-container */
 div.scroll-container {
 	overflow-x: scroll;
 	overflox-y: hidden;
@@ -540,6 +541,14 @@ div.scroll-container {
 div.scroll-container img {
   padding: 10px;
 }
+
+@media screen and (max-width: 412px) {
+
+			#scroll-container {
+				padding: 0px;
+			}
+		}
+
 
 /* Footer */
 
