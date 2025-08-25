@@ -242,9 +242,14 @@ input, select, textarea {
 				width: auto;
 			}
 
+			@media screen and (max-width: 412px) {
+				#scroll-container img {
+				width: 100%;
+				}
+			}
+			
+
 /* Button */
-
-
 button {
     display: inline-block;
     padding: 0;
@@ -541,13 +546,6 @@ div.scroll-container {
 div.scroll-container img {
   padding: 10px;
 }
-
-@media screen and (max-width: 412px) {
-
-			#scroll-container {
-				padding: 0px;
-			}
-		}
 
 
 /* Footer */
