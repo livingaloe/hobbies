@@ -244,10 +244,10 @@ input, select, textarea {
 
 			@media screen and (max-width: 412px) {
 				#scroll-container img {
-				width: 100%;
+				width: 70%;
 				}
 			}
-			
+
 
 /* Button */
 button {
