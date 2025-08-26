@@ -541,6 +541,12 @@ div.scroll-container img {
   padding: 10px;
 }
 
+@media screen and (max-width: 412px) {
+				.scroll-container img {
+				width: 100%;
+				}
+			}
+
 
 /* Footer */
 
