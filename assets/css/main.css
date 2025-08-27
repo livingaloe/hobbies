@@ -541,14 +541,14 @@ div.scroll-container img {
   padding: 10px;
 }
 
-*@media screen and (min-width:501 px) {
+*@media only screen and (min-width:601 px) {
 	.responsive {
 	width: 60%;
 	height: auto;
 	}
 }
 
-*@media screen and (max-width: 500 px) {
+*@media only screen and (max-width: 600 px) {
 	.responsive {
 		width: 100%;
   	height: auto;
