@@ -541,6 +541,10 @@ div.scroll-container img {
   padding: 10px;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
 /*@media screen and (max-width: 412px) {
 				.scroll-container img {
 				width: 100%;
