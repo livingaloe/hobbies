@@ -542,7 +542,7 @@ div.scroll-container img {
 }
 
 .responsive {
-	width: 60%;
+	max-width: 60%;
 	height: auto;
 }
 
