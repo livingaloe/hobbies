@@ -541,7 +541,7 @@ div.scroll-container img {
   padding: 10px;
 }
 
-*@media screen and (min-width:500 px) {
+*@media screen and (min-width:501 px) {
 	.responsive {
 	width: 60%;
 	height: auto;
