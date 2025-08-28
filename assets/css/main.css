@@ -501,7 +501,7 @@ div.scroll-container {
 }
 
 div.scroll-container img {
-  padding: 0px;
+  padding-right: 10px;
 }
 
 /* Footer */
